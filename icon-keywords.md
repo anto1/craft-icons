@@ -323,9 +323,11 @@ collaboration → handshake, users-group
 agreement → handshake
 deal → handshake
 teamwork → handshake, users-group
-heart → heart
-love → heart
-passion → heart
+heart → heart, heart-love
+love → heart, heart-love
+passion → heart, heart-love
+romance → heart-love
+valentine → heart-love
 megaphone → megaphone
 announce → megaphone
 promotion → megaphone

@@ -2,7 +2,7 @@
 
 ## Overview
 
-143 custom Craft icons. These are **brand assets** — never use Lucide, Heroicons, or other generic icon libraries.
+144 custom Craft icons. These are **brand assets** — never use Lucide, Heroicons, or other generic icon libraries.
 
 All icons are single-color, 48×48 viewBox, use `currentColor` for fill/stroke.
 
