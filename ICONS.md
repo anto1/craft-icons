@@ -2,7 +2,7 @@
 
 ## Overview
 
-141 custom Craft icons. These are **brand assets** — never use Lucide, Heroicons, or other generic icon libraries.
+143 custom Craft icons. These are **brand assets** — never use Lucide, Heroicons, or other generic icon libraries.
 
 All icons are single-color, 48×48 viewBox, use `currentColor` for fill/stroke.
 
@@ -95,4 +95,5 @@ Check `exists` in `craft-icons.json`. If `false`, the React component needs to b
 | nature & animals | 2 | leaf-plant, paw-animal |
 | commerce | 3 | cart, receipt-invoice, chart-up |
 | media | 2 | camera-photo, movie-clapper |
+| travel | 2 | luggage, travel-earth |
 | misc | 12 | diamond, drop, eternity, flight, flower, headphones, hoodie, rocket, socks, timer-stopwatch |

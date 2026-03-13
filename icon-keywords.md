@@ -616,6 +616,19 @@ luxury → diamond
 valuable → diamond
 precious → diamond
 
+# --- Travel ---
+luggage → luggage
+suitcase → luggage
+baggage → luggage
+travel → luggage, travel-earth, flight
+trip → luggage, travel-earth
+vacation → luggage, travel-earth
+globe → travel-earth
+earth → travel-earth
+world → travel-earth, planet
+international → travel-earth
+tourism → travel-earth
+
 # --- Page Type Recommendations ---
 # comparison → scale-balance, check, star, trophy, step-1/2/3, table, price-tag, good, shield, performance
 # use-case → users-single, briefcase, rocket, heart, lamp, megaphone, focus, users-group, education
