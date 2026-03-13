@@ -516,6 +516,106 @@ milestone → flag
 goal → flag
 priority → flag
 
+# --- Food & Drink ---
+cooking → cooking
+recipe → cooking
+chef → cooking
+kitchen → cooking
+ice cream → ice-cream
+dessert → ice-cream
+sweet → ice-cream
+treat → ice-cream
+utensils → utensils-fork-knife
+fork → utensils-fork-knife
+knife → utensils-fork-knife
+dining → utensils-fork-knife
+restaurant → utensils-fork-knife
+meal → utensils-fork-knife
+
+# --- Home & Lifestyle ---
+box → box-package
+package → box-package
+shipping → box-package
+delivery → box-package
+parcel → box-package
+house → house
+home → house
+property → house
+real estate → house
+fitness → fitness-dumbbell
+gym → fitness-dumbbell
+workout → fitness-dumbbell
+exercise → fitness-dumbbell
+dumbbell → fitness-dumbbell
+health → fitness-dumbbell, spa-lotus
+spa → spa-lotus
+wellness → spa-lotus
+relaxation → spa-lotus
+meditation → spa-lotus
+lotus → spa-lotus
+wrench → wrench
+tool → wrench
+repair → wrench
+fix → wrench
+maintenance → wrench
+
+# --- Nature & Animals ---
+leaf → leaf-plant
+plant → leaf-plant
+eco → leaf-plant
+organic → leaf-plant
+green → leaf-plant
+sustainable → leaf-plant
+paw → paw-animal
+animal → paw-animal
+pet → paw-animal
+dog → paw-animal
+cat → paw-animal
+
+# --- Commerce ---
+cart → cart
+shopping → cart
+ecommerce → cart
+buy → cart
+purchase → cart
+receipt → receipt-invoice
+invoice → receipt-invoice
+bill → receipt-invoice
+transaction → receipt-invoice
+payment → receipt-invoice
+chart → chart-up, piechart
+growth → chart-up, flower
+trending → chart-up
+increase → chart-up
+metrics → chart-up
+revenue → chart-up
+
+# --- Media ---
+camera → camera-photo, video
+photo → camera-photo, image
+photography → camera-photo
+snapshot → camera-photo
+movie → movie-clapper
+clapper → movie-clapper
+cinema → movie-clapper
+production → movie-clapper
+filmmaking → movie-clapper
+
+# --- Timer ---
+timer → timer-stopwatch
+stopwatch → timer-stopwatch
+countdown → timer-stopwatch
+lap → timer-stopwatch
+timing → timer-stopwatch
+
+# --- Gems ---
+diamond → diamond
+gem → diamond
+premium → diamond
+luxury → diamond
+valuable → diamond
+precious → diamond
+
 # --- Page Type Recommendations ---
 # comparison → scale-balance, check, star, trophy, step-1/2/3, table, price-tag, good, shield, performance
 # use-case → users-single, briefcase, rocket, heart, lamp, megaphone, focus, users-group, education
